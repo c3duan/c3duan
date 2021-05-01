@@ -1,4 +1,4 @@
-### Hi there, I am [Chengzhu!](http://czduan.me) 👋
+### Hi there, I am [Chengzhu!](https://c3duan.github.io/czduan) 👋
 
 A Passionate Software Engineer
 
